@@ -10,7 +10,7 @@ Once the exercise has been submitted a code review interview will be conducted w
 
 The Job Description highlights some of the major packages, languages and tools used by Bamg Sports during their day to day operations.  It is not expected that candidates use them all if they are not known to them already, however, it would be most helpful for the candidate to use as many of them as they are familiar with.
 
-However, we strongly sugest the following tools be used: git, typescript, markdown for documentation
+However, we strongly suggest the following tools be used: git, typescript, markdown for documentation
 
 ## Expectations
 
