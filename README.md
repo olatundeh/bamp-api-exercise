@@ -28,7 +28,7 @@ The purpose of the exercise is not a test, but to be a tool with which an inform
 
 Please provide a gitlab hosted repository containing all files associated files.
 
-Include in that repository a DOCUMENTATION.md which should contain:
+Include in that repository a CANDIDATE_DOCUMENTATION.md which should contain:
 1. All notes your took for performing the exercise
 1. Instructions for executing the submission
 1. Any notes about additional work that could be achieved had you had more time
