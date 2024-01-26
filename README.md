@@ -33,3 +33,29 @@ Include in that repository a CANDIDATE_DOCUMENTATION.md which should contain:
 1. Instructions for executing the submission
 1. Any notes about additional work that could be achieved had you had more time
 
+# The Exercise
+
+The exercise is split into two parts, frontend and backend.  You must attempt **at least one**.
+
+## Backend
+
+Provided in the backend folder is an `.sql` file describing a database.  Use it to create the schema of a database.
+
+The task is to create an API that will interact with this database.  The following is required
+
+1. Provide an API with endpoints that allows data to be retrieved from the tables
+1. Provide an ability to update some of the fields in the tables whilst disallowing changes to other fields
+1. Ideally the endpoints will provide some nested data to be obtained
+1. The resulting program must be executable and be able to interact with via a tool like Postman
+
+## Frontend
+
+The task is to create a UI that could provide access to the API and data held within.  Use the `.sql` file in the
+backend folder to inform yourself of the data you will need to work with.   The following are required
+
+1. Provide a set of UIs which could display the data to be retrieved from the API
+  1.1. NOTE: You may mock the backend responses if you do not have time to implement a backend, for example by using a `mock-api-responses.json` file
+1. Provide an ability to display any nested data / repeating data which may be returned from the API
+1. Provide forms that permit the update of some data, but also prevent the update of other data
+1. The resulting program must be executable and be able to interact with any browser
+
