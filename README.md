@@ -10,7 +10,7 @@ Once the exercise has been submitted a code review interview will be conducted w
 
 The Job Description highlights some of the major packages, languages and tools used by Bamg Sports during their day to day operations.  It is not expected that candidates use them all if they are not known to them already, however, it would be most helpful for the candidate to use as many of them as they are familiar with.
 
-However, we strongly suggest the following tools be used: git, typescript, markdown for documentation
+However, we strongly suggest the following tools be used: git, typescript, markdown for documentation.
 
 ## Expectations
 
@@ -26,12 +26,15 @@ The purpose of the exercise is not a test, but to be a tool with which an inform
 
 ## Deliverables
 
-Please provide a gitlab hosted repository containing all files associated files.
+Please provide a gitlab hosted repository containing all files associated with your submission.
 
-Include in that repository a CANDIDATE_DOCUMENTATION.md which should contain:
-1. All notes your took for performing the exercise
+Include in that repository a `CANDIDATE_DOCUMENTATION.md` which should contain:
+1. Any notes your made preparing for the exercise
 1. Instructions for executing the submission
 1. Any notes about additional work that could be achieved had you had more time
+
+When complete, email the submission URL to julia.underwood@bamgsports.com.
+
 
 # The Exercise
 
