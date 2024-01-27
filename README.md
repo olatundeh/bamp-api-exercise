@@ -50,6 +50,7 @@ The task is to create an API that will interact with this database.  The followi
 
 1. Provide an API with endpoints that allows data to be retrieved from the tables
 1. Provide an ability to update some of the fields in the tables whilst disallowing changes to other fields
+1. Provide an ability to add a new record, and delete a record
 1. Ideally the endpoints will provide some nested data to be obtained
 1. The resulting program must be executable and be able to interact with via a tool like Postman
 
@@ -66,6 +67,8 @@ backend folder to inform yourself of the data you will need to work with.   The 
 
 1. Provide an ability to display any nested data / repeating data which may be returned from the API
 1. Provide forms that permit the update of some data, but also prevent the update of other data
+1. Provide an ability to add a new record, and delete a record
+1. Ideally the UI should display nested data
 1. The resulting program must be executable and be able to interact with any browser
 1. **BONUS: Only if you have time** implement a client-side caching strategy
 
