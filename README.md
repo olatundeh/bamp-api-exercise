@@ -40,6 +40,8 @@ When complete, email the submission URL to julia.underwood@bamgsports.com.
 
 The exercise is split into two parts, frontend and backend.  You must attempt **at least one**.
 
+In essence this is a simple data management system, where the user can view/edit a table of data, forms to add and edit the data, and the display of related data, along with an accompanying API.
+
 ## Backend
 
 Provided in the backend folder is an `.sql` file describing a database.  Use it to create the schema of a database.
