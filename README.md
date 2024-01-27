@@ -51,14 +51,19 @@ The task is to create an API that will interact with this database.  The followi
 1. Ideally the endpoints will provide some nested data to be obtained
 1. The resulting program must be executable and be able to interact with via a tool like Postman
 
+1. **BONUS: Only if you have time** normalise the database in a spreadsheet spreadsheet, include a link to it in CANDIDATE_DOCUMENTATION.md
+
 ## Frontend
 
 The task is to create a UI that could provide access to the API and data held within.  Use the `.sql` file in the
 backend folder to inform yourself of the data you will need to work with.   The following are required
 
 1. Provide a set of UIs which could display the data to be retrieved from the API
-  1.1. NOTE: You may mock the backend responses if you do not have time to implement a backend, for example by using a `mock-api-responses.json` file
+
+    NOTE: You may mock the backend responses if you do not implement a backend.  **Important** Include your mock data in your git history
+
 1. Provide an ability to display any nested data / repeating data which may be returned from the API
 1. Provide forms that permit the update of some data, but also prevent the update of other data
 1. The resulting program must be executable and be able to interact with any browser
+1. **BONUS: Only if you have time** implement a client-side caching strategy
 
