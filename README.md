@@ -98,6 +98,6 @@ The following are required:
 1. **BONUS: Only if you have time** implement a client-side caching strategy
 
 ## Finally
-If you have any questions of issues with the task, please let us know on the email address above and we'll reply ASAP.
+If you have any questions about the exercise, please let us know on the email address above and we'll reply ASAP.
 
 We're looking forward to discussing your exercise submission!
