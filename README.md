@@ -24,7 +24,9 @@ The purpose of the exercise is not a test, but to be a tool with which an inform
 * Test of and or consideration for testing
 * Self documentation
 
-Ergo, it is NOT a expected for canidates to deliver a full finished "product".
+Ergo, it is NOT expected for the candidates to deliver a fully finished "product".
+
+We recommend not spending more than 3 hours on the submission.
 
 ## Deliverables
 
