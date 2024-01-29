@@ -53,7 +53,8 @@ You do not need to setup this database locally, but if you wish to setup the dat
 You should be able to connect to this database by using the details:
 
     Hostname: localhost
-    Port:     postgres
+    Port:     5438
+    User:     postgres
     Password: postgres
 
 
