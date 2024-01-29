@@ -14,7 +14,7 @@ However, we strongly suggest the following tools be used: git, typescript, markd
 
 ## Expectations
 
-The purpose of the exercise is not a test, but to be a tool with which an informed dialog can be had with the candidate.  Example points which will be discussed in the review interview may include:
+The purpose of the exercise is not a test, but to be a tool with which an informed dialogue can be had with the candidate.  Example points which will be discussed in the review interview may include:
 
 * Comprehension of the exercise and expectations
 * Which tooling were chosen and why
